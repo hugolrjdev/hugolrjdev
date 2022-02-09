@@ -77,14 +77,14 @@
 
 ## Outras Habilidades/Outher Skills
     
-    ### Fotografia
+### Fotografia
   
   <div>
     <img align="center" alt="Hugo-Fotografia" src="https://fortalezaplanodesaude.com/sistema/giticons/foto-modelos.svg">
     <img align="center" alt="Hugo-Fotografia" src="https://fortalezaplanodesaude.com/sistema/giticons/foto-publicidade.svg">
   </div>
-    
-        ### Desenho
+
+### Desenho
   
   <div>
     <img align="center" alt="Hugo-Desenho-Artístico" src="https://fortalezaplanodesaude.com/sistema/giticons/desenho-artistico.svg">
