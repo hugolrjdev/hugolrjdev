@@ -33,7 +33,7 @@
     <img align="center" alt="Hugo-Action-Script-3" src="https://fortalezaplanodesaude.com/sistema/giticons/action-script3.svg">
   </div>
   
-## Aprendendo.../Learning...
+## 🌱 Aprendendo.../Learning...
 
   <div>
     <img align="center" alt="Hugo-Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
