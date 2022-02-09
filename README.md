@@ -26,10 +26,10 @@
 ## Habilidades depreciadas/Skills depreciated
   
   <div>
-    <img align="center" alt="Hugo-HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Hugo-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Hugo-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img align="center" alt="Hugo-Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="center" alt="Hugo-Macromedia-Flash" src="https://fortalezaplanodesaude.com/sistema/giticons/macromedia-flash.svg">
+    <img align="center" alt="Hugo-Adobe-Flash" src="https://fortalezaplanodesaude.com/sistema/giticons/adobe-flash.svg">
+    <img align="center" alt="Hugo-Action-Script-2" src="https://fortalezaplanodesaude.com/sistema/giticons/action-script-2.svg">
+    <img align="center" alt="Hugo-Action-Script-3" src="https://fortalezaplanodesaude.com/sistema/giticons/action-script3.svg">
   </div>
   
 ## Aprendendo.../Learning...
