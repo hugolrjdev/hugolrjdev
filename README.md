@@ -48,7 +48,7 @@
 ## Literatura/Literature
   
   <div>
-    <img align="center" alt="Hugo-Nodejs" src="https://fortalezaplanodesaude.com/sistema/books/ecmascript6.png">
+    <a href="https://www.amazon.com.br/ECMAScript-Entre-cabe%C3%A7a-futuro-JavaScript-ebook/dp/B06XWH5WKB/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2XN7MV5S9BQOF&keywords=ecma&qid=1644424893&sprefix=ecma%2Caps%2C134&sr=8-3&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147"><img align="center" alt="Hugo-Nodejs" src="https://fortalezaplanodesaude.com/sistema/books/ecmascript6.png"></a>
   </div>
   
 ## Projetos Preferidos/Favorite projects
