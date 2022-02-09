@@ -20,7 +20,12 @@
   <a href = "mailto:fortalezaplanodesaude@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugolrj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-## Skills
+## Habilidades/Skills
+## Habilidades depreciadas/Skills depreciated
+## Aprendendo.../Learning...
+## Literatura/Literature
+## Projetos Preferidos/Favorite projects
+
     
    <div>
       <img src="https://aleen42.github.io/badges/src/photoshop.svg" target="_blank" title="Adobe Photoshop"/>
