@@ -3,6 +3,7 @@
   <a href="https://github.com/hugolrjdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugolrjdev&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolrjdev&layout=compact&langs_count=7&theme=default"/>
+  </a>
 </div>
   
 ## Habilidades/Skills
@@ -47,7 +48,7 @@
 ## Literatura/Literature
   
   <div>
-      livros que li e que ainda estou ainda lendo
+    <img align="center" alt="Hugo-Nodejs" src="https://fortalezaplanodesaude.com/sistema/books/ecmascript6.png">
   </div>
   
 ## Projetos Preferidos/Favorite projects
