@@ -1,4 +1,4 @@
-## Olá sou Hugo Lélio.
+## Olá sou Hugo Lélio, Dev Front-end com o objetivo de virar fullStack.
 <div align="center">
   <a href="https://github.com/hugolrjdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugolrjdev&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
