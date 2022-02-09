@@ -47,16 +47,17 @@
 ## Literatura/Literature
   
   <div>
-    <img align="center" alt="Hugo-Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="Hugo-Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    <img align="center" alt="Hugo-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img align="center" alt="Hugo-mySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="Hugo-sqLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img align="center" alt="Hugo-sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-    <img align="center" alt="Hugo-figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+      livros que li e que ainda estou ainda lendo
   </div>
   
 ## Projetos Preferidos/Favorite projects
+  
+  <ul>
+    <li><a href="https://github.com/hugolrjdev/js-pesquisa-de-usuarios"> Desafio Js </a></li>
+    <li><a href="https://fortalezaplanodesaude.com/"> Projeto Fortaleza Planos de saúde</a></li>
+    <li><a href="http://techmit.com.br/"> Projeto Techmit Comunicação </a></li>
+  </ul>
+  
 
 ## Contatos
  
