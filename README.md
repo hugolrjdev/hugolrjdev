@@ -53,7 +53,7 @@
 ## Projetos Preferidos/Favorite projects
   
   <ul>
-    <li><a href="https://github.com/hugolrjdev/js-pesquisa-de-usuarios"> Desafio Js </a></li>
+    <li><a href="https://github.com/hugolrjdev/js-pesquisa-de-usuarios"> Desafio Js busca por usuários </a></li>
     <li><a href="https://fortalezaplanodesaude.com/"> Projeto Fortaleza Planos de saúde</a></li>
     <li><a href="http://techmit.com.br/"> Projeto Techmit Comunicação </a></li>
   </ul>
