@@ -50,6 +50,8 @@
   
   <div>
     <a href="https://www.amazon.com.br/ECMAScript-Entre-cabe%C3%A7a-futuro-JavaScript-ebook/dp/B06XWH5WKB/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2XN7MV5S9BQOF&keywords=ecma&qid=1644424893&sprefix=ecma%2Caps%2C134&sr=8-3&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147"><img align="center" alt="Hugo-Nodejs" src="https://fortalezaplanodesaude.com/sistema/books/ecmascript6.png"></a>
+      <a href="https://www.amazon.com.br/Construindo-APIs-REST-com-Node-js-ebook/dp/B01C7TGGHC/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=RO81TK2PFBFF&keywords=node+js&qid=1644500033&sprefix=node+js%2Caps%2C118&sr=8-4&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"><img align="center" alt="Hugo-Nodejs" src="https://fortalezaplanodesaude.com/sistema/books/nodejs.png"></a>
+  
   </div>
   
 ## Projetos Preferidos/Favorite projects
